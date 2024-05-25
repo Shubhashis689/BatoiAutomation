@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-14T16:12:59 IST" name="Default suite" finished-at="2024-03-14T16:14:09 IST" duration-ms="69287">
+    <groups>
+    </groups>
+    <test started-at="2024-03-14T16:12:59 IST" name="Default test" finished-at="2024-03-14T16:14:09 IST" duration-ms="69287">
+      <class name="Automation.testCasesFolder1.loginPageTestCases">
+        <test-method is-config="true" signature="beforeTestcase()[pri:0, instance:Automation.testCasesFolder1.loginPageTestCases@ea6147e]" started-at="2024-03-14T16:12:59 IST" name="beforeTestcase" finished-at="2024-03-14T16:13:22 IST" duration-ms="22657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestcase -->
+        <test-method signature="loginNew()[pri:0, instance:Automation.testCasesFolder1.loginPageTestCases@ea6147e]" started-at="2024-03-14T16:13:22 IST" name="loginNew" finished-at="2024-03-14T16:13:23 IST" duration-ms="1268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNew -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Automation.testCasesFolder1.loginPageTestCases@ea6147e]" started-at="2024-03-14T16:13:23 IST" name="tearDown" finished-at="2024-03-14T16:13:26 IST" duration-ms="2392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="beforeTestcase()[pri:0, instance:Automation.testCasesFolder1.loginPageTestCases@ea6147e]" started-at="2024-03-14T16:13:26 IST" name="beforeTestcase" finished-at="2024-03-14T16:13:44 IST" duration-ms="17849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestcase -->
+        <test-method signature="loginSuccess()[pri:0, instance:Automation.testCasesFolder1.loginPageTestCases@ea6147e]" started-at="2024-03-14T16:13:44 IST" name="loginSuccess" finished-at="2024-03-14T16:13:46 IST" duration-ms="2420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Automation.testCasesFolder1.loginPageTestCases@ea6147e]" started-at="2024-03-14T16:13:46 IST" name="tearDown" finished-at="2024-03-14T16:13:48 IST" duration-ms="2125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="beforeTestcase()[pri:0, instance:Automation.testCasesFolder1.loginPageTestCases@ea6147e]" started-at="2024-03-14T16:13:48 IST" name="beforeTestcase" finished-at="2024-03-14T16:14:06 IST" duration-ms="18009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestcase -->
+        <test-method signature="loginUnsuccess()[pri:0, instance:Automation.testCasesFolder1.loginPageTestCases@ea6147e]" started-at="2024-03-14T16:14:06 IST" name="loginUnsuccess" finished-at="2024-03-14T16:14:07 IST" duration-ms="1089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUnsuccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Automation.testCasesFolder1.loginPageTestCases@ea6147e]" started-at="2024-03-14T16:14:07 IST" name="tearDown" finished-at="2024-03-14T16:14:09 IST" duration-ms="1388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Automation.testCasesFolder1.loginPageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
